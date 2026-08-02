@@ -1,3 +1,1 @@
 # blog_tut
-
-https://adeelhere.com/blog/2025-12-10-how-to-build-a-markdown-blog-with-nextjs
